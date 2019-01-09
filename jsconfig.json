@@ -1,0 +1,20 @@
+{ "compilerOptions": {
+      "baseUrl": "./",
+      // vscode 别名配置，用于vscode能够补全文件夹目录
+      "paths": {
+        "@/*": ["src/*"],
+        "Lib/*": ["lib/*"],
+        "Course/*": ["lib/course/*"],
+        "Vendor/*": ["lib/vendor/*"],
+        "Components/*": ["src/components/*"],
+        "Views/*": ["src/views/*"],
+      },
+      "target": "ES6",
+      "module": "commonjs",
+      "allowSyntheticDefaultImports": true,
+      "experimentalDecorators": true
+    },
+    "exclude": [
+      "node_modules"
+    ]
+}

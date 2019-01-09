@@ -1,5 +1,5 @@
 {
-  "name": "zhtimer-vue-ele",
+  "name": "your-project-name",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -26,8 +26,6 @@
     "electron": "^3.0.0",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
-    "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1",
     "vue-cli-plugin-electron-builder": "^1.0.0-rc.9",
     "vue-cli-plugin-vuetify": "^0.4.6",
     "vue-template-compiler": "^2.5.17",
